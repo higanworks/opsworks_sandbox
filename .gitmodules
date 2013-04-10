@@ -1,0 +1,3 @@
+[submodule "cookbooks"]
+	path = cookbooks
+	url = git@github.com:higanworks/opsworks_sandbox_cookbooks.git
